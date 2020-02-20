@@ -6,6 +6,7 @@ setup(name='conet',
                 "conet.models",
                 "conet.loss_functions",
                 "conet.script",
+                "conet.dataset_utils"
                 ],
       version='0.6',
       description='conet.',
